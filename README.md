@@ -2,8 +2,6 @@
 <h3 align="center">Software developer and computer science student from Brazil</h3>
 
 
-<img align="right" alt="GIF" height="170px" src="https://i.imgur.com/7ois83S.gif" />
-
 * 💻 - **Programming languages** 
 	* **Advanced** : Python | TypeScript | C/C++
 	* **Intermediate**: Java | Rust
