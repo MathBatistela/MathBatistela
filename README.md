@@ -4,7 +4,7 @@
 
 * 💻 - **Programming languages** 
 	* **Advanced** : Python | TypeScript | C/C++
-	* **Intermediate**: Java | Rust
+	* **Intermediate**: Java | Rust | C#
 	* **Currently learning**: Elixir
 * 📚 - **BS Degree in Computer Science** at [Federal University of Technology - Paraná, Brazil (UTFPR)](http://www.utfpr.edu.br/campus/campomourao)
 *  🌱 - **Machine learning** and **Data science** enthusiatic
